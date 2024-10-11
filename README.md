@@ -1,3 +1,3 @@
-# merge-conflits
+Local
 
 exercice Git/GitHub 5 : Merge & Conflits
